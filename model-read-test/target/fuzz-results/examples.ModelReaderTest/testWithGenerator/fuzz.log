@@ -1,0 +1,74 @@
+Saving new input (at run 1): input #0 of size 34; reason = +count +cov
+Saved - /mnt/c/Users/jorda/OneDrive/Desktop/model-read-test/target/fuzz-results/examples.ModelReaderTest/testWithGenerator/corpus/id_000000 random +count +cov
+Saving new input (at run 2): input #0 of size 19; reason = +count +cov
+Saved - /mnt/c/Users/jorda/OneDrive/Desktop/model-read-test/target/fuzz-results/examples.ModelReaderTest/testWithGenerator/corpus/id_000001 random +count +cov
+Saving new input (at run 3): input #0 of size 29; reason = +count +cov
+Saved - /mnt/c/Users/jorda/OneDrive/Desktop/model-read-test/target/fuzz-results/examples.ModelReaderTest/testWithGenerator/corpus/id_000002 random +count +cov
+Saving new input (at run 4): input #0 of size 85; reason = +count
+Saved - /mnt/c/Users/jorda/OneDrive/Desktop/model-read-test/target/fuzz-results/examples.ModelReaderTest/testWithGenerator/corpus/id_000003 random +count
+Saving new input (at run 5): input #0 of size 21; reason = +count
+Saved - /mnt/c/Users/jorda/OneDrive/Desktop/model-read-test/target/fuzz-results/examples.ModelReaderTest/testWithGenerator/corpus/id_000004 random +count
+Saving new input (at run 11): input #0 of size 42; reason = +count +cov
+Saved - /mnt/c/Users/jorda/OneDrive/Desktop/model-read-test/target/fuzz-results/examples.ModelReaderTest/testWithGenerator/corpus/id_000005 random +count +cov
+Saving new input (at run 12): input #0 of size 4596; reason = +count +cov
+Saved - /mnt/c/Users/jorda/OneDrive/Desktop/model-read-test/target/fuzz-results/examples.ModelReaderTest/testWithGenerator/corpus/id_000006 random +count +cov
+Saving new input (at run 13): input #0 of size 146; reason = +count
+Saved - /mnt/c/Users/jorda/OneDrive/Desktop/model-read-test/target/fuzz-results/examples.ModelReaderTest/testWithGenerator/corpus/id_000007 random +count
+Saving new input (at run 16): input #0 of size 51; reason = +count
+Saved - /mnt/c/Users/jorda/OneDrive/Desktop/model-read-test/target/fuzz-results/examples.ModelReaderTest/testWithGenerator/corpus/id_000008 random +count
+Saving new input (at run 19): input #0 of size 92; reason = +count
+Saved - /mnt/c/Users/jorda/OneDrive/Desktop/model-read-test/target/fuzz-results/examples.ModelReaderTest/testWithGenerator/corpus/id_000009 random +count
+Saving new input (at run 22): input #0 of size 31; reason = +count
+Saved - /mnt/c/Users/jorda/OneDrive/Desktop/model-read-test/target/fuzz-results/examples.ModelReaderTest/testWithGenerator/corpus/id_000010 random +count
+Saving new input (at run 51): input #0 of size 178; reason = +count
+Saved - /mnt/c/Users/jorda/OneDrive/Desktop/model-read-test/target/fuzz-results/examples.ModelReaderTest/testWithGenerator/corpus/id_000011 random +count
+Saving new input (at run 65): input #0 of size 1195; reason = +count
+Saved - /mnt/c/Users/jorda/OneDrive/Desktop/model-read-test/target/fuzz-results/examples.ModelReaderTest/testWithGenerator/corpus/id_000012 random +count
+Saving new input (at run 69): input #0 of size 536; reason = +count
+Saved - /mnt/c/Users/jorda/OneDrive/Desktop/model-read-test/target/fuzz-results/examples.ModelReaderTest/testWithGenerator/corpus/id_000013 random +count
+Saving new input (at run 70): input #0 of size 137; reason = +count
+Saved - /mnt/c/Users/jorda/OneDrive/Desktop/model-read-test/target/fuzz-results/examples.ModelReaderTest/testWithGenerator/corpus/id_000014 random +count
+Saving new input (at run 75): input #0 of size 221; reason = +count
+Saved - /mnt/c/Users/jorda/OneDrive/Desktop/model-read-test/target/fuzz-results/examples.ModelReaderTest/testWithGenerator/corpus/id_000015 random +count
+Saving new input (at run 89): input #0 of size 360; reason = +count
+Saved - /mnt/c/Users/jorda/OneDrive/Desktop/model-read-test/target/fuzz-results/examples.ModelReaderTest/testWithGenerator/corpus/id_000016 random +count
+Saving new input (at run 182): input #0 of size 2452; reason = +count
+Saved - /mnt/c/Users/jorda/OneDrive/Desktop/model-read-test/target/fuzz-results/examples.ModelReaderTest/testWithGenerator/corpus/id_000017 random +count
+Saving new input (at run 195): input #0 of size 2065; reason = +count
+Saved - /mnt/c/Users/jorda/OneDrive/Desktop/model-read-test/target/fuzz-results/examples.ModelReaderTest/testWithGenerator/corpus/id_000018 random +count
+Saving new input (at run 248): input #0 of size 21; reason = +valid
+Saved - /mnt/c/Users/jorda/OneDrive/Desktop/model-read-test/target/fuzz-results/examples.ModelReaderTest/testWithGenerator/corpus/id_000019 random +valid
+Saving new input (at run 266): input #0 of size 3950; reason = +count
+Saved - /mnt/c/Users/jorda/OneDrive/Desktop/model-read-test/target/fuzz-results/examples.ModelReaderTest/testWithGenerator/corpus/id_000020 random +count
+Saving new input (at run 324): input #0 of size 4585; reason = +count
+Saved - /mnt/c/Users/jorda/OneDrive/Desktop/model-read-test/target/fuzz-results/examples.ModelReaderTest/testWithGenerator/corpus/id_000021 random +count
+Saving new input (at run 338): input #0 of size 736; reason = +count
+Saved - /mnt/c/Users/jorda/OneDrive/Desktop/model-read-test/target/fuzz-results/examples.ModelReaderTest/testWithGenerator/corpus/id_000022 random +count
+Saving new input (at run 340): input #0 of size 1030; reason = +count
+Saved - /mnt/c/Users/jorda/OneDrive/Desktop/model-read-test/target/fuzz-results/examples.ModelReaderTest/testWithGenerator/corpus/id_000023 random +count
+Saving new input (at run 363): input #0 of size 7399; reason = +count
+Saved - /mnt/c/Users/jorda/OneDrive/Desktop/model-read-test/target/fuzz-results/examples.ModelReaderTest/testWithGenerator/corpus/id_000024 random +count
+Saving new input (at run 1401): input #0 of size 1562; reason = +count
+Saved - /mnt/c/Users/jorda/OneDrive/Desktop/model-read-test/target/fuzz-results/examples.ModelReaderTest/testWithGenerator/corpus/id_000025 random +count
+Saving new input (at run 1407): input #0 of size 7776; reason = +count
+Saved - /mnt/c/Users/jorda/OneDrive/Desktop/model-read-test/target/fuzz-results/examples.ModelReaderTest/testWithGenerator/corpus/id_000026 random +count
+Saving new input (at run 3101): input #0 of size 2056; reason = +count
+Saved - /mnt/c/Users/jorda/OneDrive/Desktop/model-read-test/target/fuzz-results/examples.ModelReaderTest/testWithGenerator/corpus/id_000027 random +count
+Saving new input (at run 4940): input #0 of size 15; reason = +valid
+Saved - /mnt/c/Users/jorda/OneDrive/Desktop/model-read-test/target/fuzz-results/examples.ModelReaderTest/testWithGenerator/corpus/id_000028 random +valid
+Saving new input (at run 10874): input #0 of size 55; reason = +valid
+Saved - /mnt/c/Users/jorda/OneDrive/Desktop/model-read-test/target/fuzz-results/examples.ModelReaderTest/testWithGenerator/corpus/id_000029 random +valid
+Saving new input (at run 55476): input #0 of size 9233; reason = +count
+Saved - /mnt/c/Users/jorda/OneDrive/Desktop/model-read-test/target/fuzz-results/examples.ModelReaderTest/testWithGenerator/corpus/id_000030 random +count
+Saving new input (at run 60372): input #0 of size 8840; reason = +count
+Saved - /mnt/c/Users/jorda/OneDrive/Desktop/model-read-test/target/fuzz-results/examples.ModelReaderTest/testWithGenerator/corpus/id_000031 random +count
+Saving new input (at run 86557): input #0 of size 8699; reason = +count
+Saved - /mnt/c/Users/jorda/OneDrive/Desktop/model-read-test/target/fuzz-results/examples.ModelReaderTest/testWithGenerator/corpus/id_000032 random +count
+Saving new input (at run 147407): input #0 of size 9135; reason = +count
+Saved - /mnt/c/Users/jorda/OneDrive/Desktop/model-read-test/target/fuzz-results/examples.ModelReaderTest/testWithGenerator/corpus/id_000033 random +count
+Saving new input (at run 153644): input #0 of size 183; reason = +valid
+Saved - /mnt/c/Users/jorda/OneDrive/Desktop/model-read-test/target/fuzz-results/examples.ModelReaderTest/testWithGenerator/corpus/id_000034 random +valid
+Saving new input (at run 236527): input #0 of size 8658; reason = +count
+Saved - /mnt/c/Users/jorda/OneDrive/Desktop/model-read-test/target/fuzz-results/examples.ModelReaderTest/testWithGenerator/corpus/id_000035 random +count
+Saving new input (at run 19069650): input #0 of size 1390; reason = +valid
+Saved - /mnt/c/Users/jorda/OneDrive/Desktop/model-read-test/target/fuzz-results/examples.ModelReaderTest/testWithGenerator/corpus/id_000036 random +valid
